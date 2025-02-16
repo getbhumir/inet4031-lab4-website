@@ -3,6 +3,7 @@
 ## Instructions, files, code for Lab 6.
 
 What if you aren't nearby the computer you need to work on?
+-Remote into the computere via SSH or RDP
 
 Up until this point, our Lab activities have been accomplished by doing them on our laptops.
 
@@ -12,5 +13,4 @@ We have to connect to them remotely
 
 This Lab explores that concept.
 
-
-
+I was able to successfully connect. 
